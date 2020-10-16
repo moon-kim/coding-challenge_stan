@@ -1,12 +1,12 @@
 # Translational Image-Guided Oncology: Coding Challenge
 
-Welcome to the coding challenge of the research group Translational Image-guided Oncology at the newly founded Institute für Künstliche Intelligenz in der Medizin (IKIM) at the University Hospital Essen.
+Welcome to the coding challenge of the research group Translational Image-guided Oncology at the newly founded Institute for Aritficial Intelligence in Medicine (IKIM) at the University Hospital Essen.
 
 We are excited that you are applying to be part of the research group and the institute. If you made it this far in the selection process, there must be something unique and impressive about you.
 
 The aim of the coding challenge is to get a sense of your _approach to solving problems_, your _technical coding abilities_, and your _grasp of machine learning methods_. 
 
-There is __no single correct answer__ to the challenge. Instead, we encourage you to play to your technical strengths, to experiment, to visualize your results and to document your work, so we can talk about it in future conversations.
+There is __no single correct answer__ to the challenge. Instead, we encourage you to play to your technical strengths, to experiment, to visualize your results and to document your work, so we can get an idea how you approach problems.
 
 ## The Task
 
@@ -25,9 +25,9 @@ Some other considerations:
 - Start by cloning this repository. 
 - When you are done, zip your repository and send it to `jens.kleesiek@uk-essen.de` and `jacob.murray@uk-essen.de`. 
 - The coding challenge should be completed using Python 3. You can use Jupyter Notebooks or standard Python scripts.
-- We encourage the use common machine learning packages, i.e., [scikit-learn](https://scikit-learn.org/stable/). 
+- We encourage the use common machine learning packages, e.g., [scikit-learn](https://scikit-learn.org/stable/), [keras](https://keras.io/) or [pytorch](https://pytorch.org/). 
 - Please include a `requirements.txt` in your submission, so that we can reproduce your code.
-- Should you want to make use of a GPU-based machine learning method, you are encouraged to do so. Google Colab offers free GPU resources.
+- Should you want to make use of a GPU-based machine learning method, you are encouraged to do so. For instance, Google [Colab](https://pytorch.org/) offers free GPU resources.
  
 
 ## The Data
