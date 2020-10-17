@@ -18,12 +18,12 @@ The goal of the coding challenge is for you to __develop a basic machine learnin
 
 Your final submission should contain all the code you used to train your model, your final model, any code you used to generate visualizations, as well as an executable script/ function that loads your final model and makes a prediction for any two input `.nrrd` files as described above. 
 
-In total, we intend for you to spend __no more than about 3 hours__ on the coding challenge.
+In total, we intend for you to spend __no more than about 4 hours__ on the coding challenge.
 
 Some other considerations:
 
 - Start by cloning this repository. 
-- When you are done, zip your repository and send it to `jens.kleesiek@uk-essen.de` and `jacob.murray@uk-essen.de`. 
+- When you are done, push the code and the results of your work. 
 - The coding challenge should be completed using Python 3. You can use Jupyter Notebooks or standard Python scripts.
 - We encourage the use common machine learning packages, e.g., [scikit-learn](https://scikit-learn.org/stable/), [keras](https://keras.io/) or [pytorch](https://pytorch.org/). 
 - Please include a `requirements.txt` in your submission, so that we can reproduce your code.
@@ -56,4 +56,7 @@ The file name also contains the label of the target organ, i.e., the intended ou
 - To load `.nrrd` files you can use [pynrrd](https://pypi.org/project/pynrrd/). It provides easy access to the data in the form of a numpy array. 
 - One possible approach to the problem is to start by extracting radiomics features from the images using [pyradiomics](https://pyradiomics.readthedocs.io/en/latest/) and then to use some of those features to train a model.
 - An easy way to visualize images and masks is with [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php).
+
+## Acknowledgements
+This challenge was prepared by `jacob.murray@uk-essen.de`
 
