@@ -2,7 +2,7 @@
 
 Welcome to the coding challenge of the research group Translational Image-guided Oncology at the newly founded Institute for Aritficial Intelligence in Medicine (IKIM) at the University Hospital Essen.
 
-We are excited that you are applying to be part of the research group and the institute. If you made it this far in the selection process, there must be something unique and impressive about you.
+We are excited that you are applying to be part of the research group and the institute. If you've made it this far in the selection process, there must be something unique and impressive about you.
 
 The aim of the coding challenge is to get a sense of your _approach to solving problems_, your _technical coding abilities_, and your _grasp of machine learning methods_. 
 
@@ -16,7 +16,7 @@ The goal of the coding challenge is for you to __develop a basic machine learnin
 - The second _input_ NRRD-file is a 15x15 binary mask, specifying the region of interest (ROI) in the first file.
 - The _output_ should be the name of the organ to which the first file belonged.
 
-Your final submission should contain all the code you used to train your model, your final model, any code you used to generate visualizations, as well as an executable script/ function that loads your final model and makes a prediction for any two input `.nrrd` files as described above. 
+Your final submission should contain all the code you used to train your model, your final model, any code you used to generate visualizations. Moreover, please include an executable script/ function that loads your final model and makes predictions and reports accuracy for any two directories containing, respectively, the first and second input `.nrrd` files, as described above. 
 
 In total, we intend for you to spend __no more than about 4 hours__ on the coding challenge.
 
