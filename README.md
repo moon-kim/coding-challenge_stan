@@ -25,7 +25,7 @@ Some other considerations:
 - Start by cloning this repository. 
 - When you are done, push the code and the results of your work. 
 - The coding challenge should be completed using Python 3. You can use Jupyter Notebooks or standard Python scripts.
-- We encourage the use common machine learning packages, e.g., [scikit-learn](https://scikit-learn.org/stable/), [keras](https://keras.io/) or [pytorch](https://pytorch.org/). 
+- We encourage the use of common machine learning packages, e.g., [scikit-learn](https://scikit-learn.org/stable/), [keras](https://keras.io/) or [pytorch](https://pytorch.org/). 
 - Please include a `requirements.txt` in your submission, so that we can reproduce your code.
 - Should you want to make use of a GPU-based machine learning method, you are encouraged to do so. For instance, Google [Colab](https://pytorch.org/) offers free GPU resources.
  
