@@ -48,7 +48,7 @@ Associated images (first input file described above) and masks (second input fil
 
 The first number in the file name,  so `1` in `1_liver7.nrrd`, is the site at which the MRI image patch was recorded. In total, there are 7 sites. You have access to the data of 6 sites. We will be evaluating the performance of your model on the data of site 4, which we held back.
 
-The file name also contains the label of the target organ, i.e., the intended output of your model. In this case the target label is `liver`.
+The file name also contains the label of the target organ, i.e., the intended output of your model. In this case the target label is `liver`. In total there are 5 different labels, i.e classes: liver, kidney, spleen, muscle and bone.
 
 
 ## Some Pointers
